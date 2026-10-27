@@ -1,20 +1,28 @@
-Placeholders pending review.
+# Mistakes found in Clef (clef) on comments-v2.json
 
-Both datasets still need my manual review (the review must be my own judgement,
-not AI-generated). Until then, these files intentionally contain no claimed
-mistakes.
+- Review complete: 100/100 comments manually reviewed.
+- Mistakes found: 4.
+- Borderline calls: 0 (included where marked).
 
-Status:
-- [ ] Dataset 1 (`comments.json`, clef-flash) reviewed and compiled into this file
-- [ ] Dataset 2 (`comments-v2.json`, clef) reviewed and compiled into MISTAKES-v2.md
+## Wrong classifications
 
-How this gets filled in (see NOTES.md):
-1. Run the classifier, then open `review.html` / `review-v2.html`.
-2. For every comment, pick the label I believe is correct (acceptable / toxic /
-   spam), tick "borderline" where it applies, and write a short reason whenever
-   I disagree with Clef.
-3. Click "Export decisions as JSON" (saves `clef-review-v1.json` /
-   `clef-review-v2.json`).
-4. Run `python compile_mistakes.py --dataset 1` and
-   `python compile_mistakes.py --dataset 2` — they generate/replace this file
-   and `MISTAKES-v2.md` from MY exported decisions.
+### Comment 17
+
+- Clef's label: **acceptable**
+- My label: **toxic**
+- Why: frustation in chats are toxic in nature.
+### Comment 19
+
+- Clef's label: **acceptable**
+- My label: **toxic**
+- Why: wrong words/opinions in chat for citizen, should be toxic.
+### Comment 20
+
+- Clef's label: **toxic**
+- My label: **acceptable**
+- Why: it should be acceptable and the student raises a concern against the statement.
+### Comment 96
+
+- Clef's label: **acceptable**
+- My label: **toxic**
+- Why: bad comments on people

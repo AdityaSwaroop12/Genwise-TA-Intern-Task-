@@ -1,0 +1,607 @@
+{
+  "exportedAt": "2026-10-27T13:03:27.427Z",
+  "reviewKey": "clef-review-v2",
+  "dataset": "comments-v2.json",
+  "results": [
+    {
+      "id": 1,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 2,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 3,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 4,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 5,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 6,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 7,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 8,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 9,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 10,
+      "choice": "toxic",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 11,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 12,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 13,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 14,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 15,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 16,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 17,
+      "choice": "toxic",
+      "borderline": false,
+      "note": "frustation in chats are toxic in nature."
+    },
+    {
+      "id": 18,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 19,
+      "choice": "toxic",
+      "borderline": false,
+      "note": "wrong words/opinions in chat for citizen, should be toxic."
+    },
+    {
+      "id": 20,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": "it should be acceptable and the student raises a concern against the statement."
+    },
+    {
+      "id": 21,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 22,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 23,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 24,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 25,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 26,
+      "choice": "toxic",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 27,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 28,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 29,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 30,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 31,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 32,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 33,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 34,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 35,
+      "choice": "toxic",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 36,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 37,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 38,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 39,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 40,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 41,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 42,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 43,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 44,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 45,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 46,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 47,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 48,
+      "choice": "toxic",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 49,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 50,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 51,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 52,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 53,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 54,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 55,
+      "choice": "toxic",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 56,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 57,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 58,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 59,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 60,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 61,
+      "choice": "toxic",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 62,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 63,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 64,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 65,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 66,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 67,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 68,
+      "choice": "toxic",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 69,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 70,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 71,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 72,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 73,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 74,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 75,
+      "choice": "toxic",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 76,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 77,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 78,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 79,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 80,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 81,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 82,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 83,
+      "choice": "toxic",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 84,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 85,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 86,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 87,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 88,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 89,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 90,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 91,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 92,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 93,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 94,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 95,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 96,
+      "choice": "toxic",
+      "borderline": false,
+      "note": "bad comments on people"
+    },
+    {
+      "id": 97,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 98,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 99,
+      "choice": "toxic",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 100,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    }
+  ]
+}

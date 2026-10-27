@@ -1,0 +1,1313 @@
+{
+  "dataset": "comments-v2.json",
+  "model": "clef",
+  "rubric": "v2",
+  "completed_at": "2026-10-27T12:21:45.036469+00:00",
+  "counts": {
+    "total": 100,
+    "ok": 100,
+    "failed": 0
+  },
+  "results": [
+    {
+      "label": "acceptable",
+      "confidence": 0.8548,
+      "probabilities": {
+        "acceptable": 0.9496,
+        "toxic": 0.0145,
+        "spam": 0.0359
+      },
+      "id": 1,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:19:34.592248+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.7258,
+      "probabilities": {
+        "acceptable": 0.9006,
+        "toxic": 0.0249,
+        "spam": 0.0745
+      },
+      "id": 2,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:19:36.054640+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8653,
+      "probabilities": {
+        "acceptable": 0.9534,
+        "toxic": 0.0164,
+        "spam": 0.0302
+      },
+      "id": 3,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:19:37.201689+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8158,
+      "probabilities": {
+        "acceptable": 0.9352,
+        "toxic": 0.0162,
+        "spam": 0.0486
+      },
+      "id": 4,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:19:38.277184+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.84,
+      "probabilities": {
+        "acceptable": 0.9443,
+        "toxic": 0.0197,
+        "spam": 0.036
+      },
+      "id": 5,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:19:39.907999+00:00"
+    },
+    {
+      "label": "spam",
+      "confidence": 0.7944,
+      "probabilities": {
+        "acceptable": 0.0595,
+        "toxic": 0.0136,
+        "spam": 0.9269
+      },
+      "id": 6,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:19:41.095570+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.2702,
+      "probabilities": {
+        "acceptable": 0.6444,
+        "toxic": 0.31,
+        "spam": 0.0456
+      },
+      "id": 7,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:19:42.268290+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8041,
+      "probabilities": {
+        "acceptable": 0.9309,
+        "toxic": 0.0187,
+        "spam": 0.0504
+      },
+      "id": 8,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:19:43.497631+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8382,
+      "probabilities": {
+        "acceptable": 0.9436,
+        "toxic": 0.0181,
+        "spam": 0.0383
+      },
+      "id": 9,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:19:44.671759+00:00"
+    },
+    {
+      "label": "toxic",
+      "confidence": 0.2283,
+      "probabilities": {
+        "acceptable": 0.3991,
+        "toxic": 0.5704,
+        "spam": 0.0305
+      },
+      "id": 10,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:19:45.663856+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8383,
+      "probabilities": {
+        "acceptable": 0.9435,
+        "toxic": 0.0138,
+        "spam": 0.0427
+      },
+      "id": 11,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:19:46.701562+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.768,
+      "probabilities": {
+        "acceptable": 0.9171,
+        "toxic": 0.0213,
+        "spam": 0.0616
+      },
+      "id": 12,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:19:48.107800+00:00"
+    },
+    {
+      "label": "spam",
+      "confidence": 0.8388,
+      "probabilities": {
+        "acceptable": 0.0412,
+        "toxic": 0.0151,
+        "spam": 0.9437
+      },
+      "id": 13,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:19:49.254160+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.7676,
+      "probabilities": {
+        "acceptable": 0.9174,
+        "toxic": 0.0338,
+        "spam": 0.0488
+      },
+      "id": 14,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:19:50.565675+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.7712,
+      "probabilities": {
+        "acceptable": 0.9183,
+        "toxic": 0.0197,
+        "spam": 0.062
+      },
+      "id": 15,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:19:51.787423+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8344,
+      "probabilities": {
+        "acceptable": 0.9422,
+        "toxic": 0.0174,
+        "spam": 0.0404
+      },
+      "id": 16,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:19:53.149571+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.6619,
+      "probabilities": {
+        "acceptable": 0.875,
+        "toxic": 0.0872,
+        "spam": 0.0378
+      },
+      "id": 17,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:19:54.352538+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8286,
+      "probabilities": {
+        "acceptable": 0.94,
+        "toxic": 0.0166,
+        "spam": 0.0434
+      },
+      "id": 18,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:19:55.401603+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.2172,
+      "probabilities": {
+        "acceptable": 0.5756,
+        "toxic": 0.3807,
+        "spam": 0.0437
+      },
+      "id": 19,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:19:56.986785+00:00"
+    },
+    {
+      "label": "toxic",
+      "confidence": 0.241,
+      "probabilities": {
+        "acceptable": 0.3395,
+        "toxic": 0.6137,
+        "spam": 0.0468
+      },
+      "id": 20,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:19:58.162038+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.7994,
+      "probabilities": {
+        "acceptable": 0.9291,
+        "toxic": 0.0193,
+        "spam": 0.0516
+      },
+      "id": 21,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:19:59.473296+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8327,
+      "probabilities": {
+        "acceptable": 0.9416,
+        "toxic": 0.0211,
+        "spam": 0.0373
+      },
+      "id": 22,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:00.878783+00:00"
+    },
+    {
+      "label": "spam",
+      "confidence": 0.4067,
+      "probabilities": {
+        "acceptable": 0.2455,
+        "toxic": 0.017,
+        "spam": 0.7375
+      },
+      "id": 23,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:02.111578+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.7465,
+      "probabilities": {
+        "acceptable": 0.9087,
+        "toxic": 0.0215,
+        "spam": 0.0698
+      },
+      "id": 24,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:03.671112+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8659,
+      "probabilities": {
+        "acceptable": 0.9537,
+        "toxic": 0.0157,
+        "spam": 0.0306
+      },
+      "id": 25,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:05.329449+00:00"
+    },
+    {
+      "label": "toxic",
+      "confidence": 0.4599,
+      "probabilities": {
+        "acceptable": 0.2153,
+        "toxic": 0.7703,
+        "spam": 0.0144
+      },
+      "id": 26,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:06.641333+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8662,
+      "probabilities": {
+        "acceptable": 0.9537,
+        "toxic": 0.0151,
+        "spam": 0.0312
+      },
+      "id": 27,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:08.075212+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.7708,
+      "probabilities": {
+        "acceptable": 0.9183,
+        "toxic": 0.0243,
+        "spam": 0.0574
+      },
+      "id": 28,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:09.302256+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8133,
+      "probabilities": {
+        "acceptable": 0.9346,
+        "toxic": 0.0334,
+        "spam": 0.032
+      },
+      "id": 29,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:10.529882+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.7504,
+      "probabilities": {
+        "acceptable": 0.9105,
+        "toxic": 0.0287,
+        "spam": 0.0608
+      },
+      "id": 30,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:11.804032+00:00"
+    },
+    {
+      "label": "spam",
+      "confidence": 0.5433,
+      "probabilities": {
+        "acceptable": 0.1709,
+        "toxic": 0.0129,
+        "spam": 0.8162
+      },
+      "id": 31,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:13.207611+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.9133,
+      "probabilities": {
+        "acceptable": 0.9704,
+        "toxic": 0.0114,
+        "spam": 0.0182
+      },
+      "id": 32,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:14.386763+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.7691,
+      "probabilities": {
+        "acceptable": 0.9179,
+        "toxic": 0.0349,
+        "spam": 0.0472
+      },
+      "id": 33,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:15.650801+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8913,
+      "probabilities": {
+        "acceptable": 0.9627,
+        "toxic": 0.0116,
+        "spam": 0.0257
+      },
+      "id": 34,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:17.288623+00:00"
+    },
+    {
+      "label": "toxic",
+      "confidence": 0.672,
+      "probabilities": {
+        "acceptable": 0.1019,
+        "toxic": 0.8778,
+        "spam": 0.0203
+      },
+      "id": 35,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:19.453721+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.9167,
+      "probabilities": {
+        "acceptable": 0.9716,
+        "toxic": 0.0172,
+        "spam": 0.0112
+      },
+      "id": 36,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:20.461900+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8722,
+      "probabilities": {
+        "acceptable": 0.9559,
+        "toxic": 0.0176,
+        "spam": 0.0265
+      },
+      "id": 37,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:21.487091+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8256,
+      "probabilities": {
+        "acceptable": 0.9389,
+        "toxic": 0.0165,
+        "spam": 0.0446
+      },
+      "id": 38,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:23.038566+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8121,
+      "probabilities": {
+        "acceptable": 0.9339,
+        "toxic": 0.0206,
+        "spam": 0.0455
+      },
+      "id": 39,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:24.252039+00:00"
+    },
+    {
+      "label": "spam",
+      "confidence": 0.3043,
+      "probabilities": {
+        "acceptable": 0.3166,
+        "toxic": 0.0235,
+        "spam": 0.6599
+      },
+      "id": 40,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:25.605356+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.9058,
+      "probabilities": {
+        "acceptable": 0.9678,
+        "toxic": 0.0131,
+        "spam": 0.0191
+      },
+      "id": 41,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:26.813403+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.7417,
+      "probabilities": {
+        "acceptable": 0.9074,
+        "toxic": 0.0549,
+        "spam": 0.0377
+      },
+      "id": 42,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:27.979250+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.9078,
+      "probabilities": {
+        "acceptable": 0.9685,
+        "toxic": 0.0136,
+        "spam": 0.0179
+      },
+      "id": 43,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:29.055059+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8467,
+      "probabilities": {
+        "acceptable": 0.9467,
+        "toxic": 0.0194,
+        "spam": 0.0339
+      },
+      "id": 44,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:30.097154+00:00"
+    },
+    {
+      "label": "spam",
+      "confidence": 0.803,
+      "probabilities": {
+        "acceptable": 0.0545,
+        "toxic": 0.0152,
+        "spam": 0.9303
+      },
+      "id": 45,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:31.422460+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.7929,
+      "probabilities": {
+        "acceptable": 0.9269,
+        "toxic": 0.03,
+        "spam": 0.0431
+      },
+      "id": 46,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:32.775195+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.7669,
+      "probabilities": {
+        "acceptable": 0.9169,
+        "toxic": 0.0268,
+        "spam": 0.0563
+      },
+      "id": 47,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:33.874558+00:00"
+    },
+    {
+      "label": "toxic",
+      "confidence": 0.6812,
+      "probabilities": {
+        "acceptable": 0.0956,
+        "toxic": 0.8819,
+        "spam": 0.0225
+      },
+      "id": 48,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:35.051618+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8479,
+      "probabilities": {
+        "acceptable": 0.9471,
+        "toxic": 0.0193,
+        "spam": 0.0336
+      },
+      "id": 49,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:36.142830+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8272,
+      "probabilities": {
+        "acceptable": 0.9396,
+        "toxic": 0.0238,
+        "spam": 0.0366
+      },
+      "id": 50,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:37.410766+00:00"
+    },
+    {
+      "label": "spam",
+      "confidence": 0.7642,
+      "probabilities": {
+        "acceptable": 0.0655,
+        "toxic": 0.019,
+        "spam": 0.9155
+      },
+      "id": 51,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:39.024335+00:00"
+    },
+    {
+      "label": "spam",
+      "confidence": 0.2186,
+      "probabilities": {
+        "acceptable": 0.4479,
+        "toxic": 0.025,
+        "spam": 0.5271
+      },
+      "id": 52,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:40.255223+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8049,
+      "probabilities": {
+        "acceptable": 0.931,
+        "toxic": 0.0146,
+        "spam": 0.0544
+      },
+      "id": 53,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:41.643609+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.3581,
+      "probabilities": {
+        "acceptable": 0.7137,
+        "toxic": 0.0391,
+        "spam": 0.2472
+      },
+      "id": 54,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:42.853119+00:00"
+    },
+    {
+      "label": "toxic",
+      "confidence": 0.2065,
+      "probabilities": {
+        "acceptable": 0.4389,
+        "toxic": 0.5265,
+        "spam": 0.0346
+      },
+      "id": 55,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:44.381640+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8593,
+      "probabilities": {
+        "acceptable": 0.9513,
+        "toxic": 0.0208,
+        "spam": 0.0279
+      },
+      "id": 56,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:45.551595+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.7101,
+      "probabilities": {
+        "acceptable": 0.8942,
+        "toxic": 0.0247,
+        "spam": 0.0811
+      },
+      "id": 57,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:46.876395+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8749,
+      "probabilities": {
+        "acceptable": 0.9569,
+        "toxic": 0.0153,
+        "spam": 0.0278
+      },
+      "id": 58,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:49.036123+00:00"
+    },
+    {
+      "label": "spam",
+      "confidence": 0.7763,
+      "probabilities": {
+        "acceptable": 0.0656,
+        "toxic": 0.0144,
+        "spam": 0.92
+      },
+      "id": 59,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:50.445863+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.869,
+      "probabilities": {
+        "acceptable": 0.9548,
+        "toxic": 0.0192,
+        "spam": 0.026
+      },
+      "id": 60,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:51.552852+00:00"
+    },
+    {
+      "label": "toxic",
+      "confidence": 0.5328,
+      "probabilities": {
+        "acceptable": 0.1694,
+        "toxic": 0.8121,
+        "spam": 0.0185
+      },
+      "id": 61,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:53.010800+00:00"
+    },
+    {
+      "label": "spam",
+      "confidence": 0.3427,
+      "probabilities": {
+        "acceptable": 0.2755,
+        "toxic": 0.028,
+        "spam": 0.6965
+      },
+      "id": 62,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:54.260773+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8447,
+      "probabilities": {
+        "acceptable": 0.9458,
+        "toxic": 0.0131,
+        "spam": 0.0411
+      },
+      "id": 63,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:55.793370+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.7863,
+      "probabilities": {
+        "acceptable": 0.9242,
+        "toxic": 0.0211,
+        "spam": 0.0547
+      },
+      "id": 64,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:56.837210+00:00"
+    },
+    {
+      "label": "spam",
+      "confidence": 0.6935,
+      "probabilities": {
+        "acceptable": 0.0972,
+        "toxic": 0.0163,
+        "spam": 0.8865
+      },
+      "id": 65,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:20:58.455334+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8862,
+      "probabilities": {
+        "acceptable": 0.9609,
+        "toxic": 0.0159,
+        "spam": 0.0232
+      },
+      "id": 66,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:00.058862+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.7957,
+      "probabilities": {
+        "acceptable": 0.9279,
+        "toxic": 0.0266,
+        "spam": 0.0455
+      },
+      "id": 67,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:01.346195+00:00"
+    },
+    {
+      "label": "toxic",
+      "confidence": 0.3836,
+      "probabilities": {
+        "acceptable": 0.2501,
+        "toxic": 0.7252,
+        "spam": 0.0247
+      },
+      "id": 68,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:02.504924+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.7609,
+      "probabilities": {
+        "acceptable": 0.9141,
+        "toxic": 0.0176,
+        "spam": 0.0683
+      },
+      "id": 69,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:03.586699+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.647,
+      "probabilities": {
+        "acceptable": 0.8674,
+        "toxic": 0.0245,
+        "spam": 0.1081
+      },
+      "id": 70,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:05.116756+00:00"
+    },
+    {
+      "label": "spam",
+      "confidence": 0.8393,
+      "probabilities": {
+        "acceptable": 0.0416,
+        "toxic": 0.0145,
+        "spam": 0.9439
+      },
+      "id": 71,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:06.238088+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8532,
+      "probabilities": {
+        "acceptable": 0.949,
+        "toxic": 0.0139,
+        "spam": 0.0371
+      },
+      "id": 72,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:07.519296+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.6736,
+      "probabilities": {
+        "acceptable": 0.8793,
+        "toxic": 0.0294,
+        "spam": 0.0913
+      },
+      "id": 73,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:08.842204+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.88,
+      "probabilities": {
+        "acceptable": 0.9587,
+        "toxic": 0.0133,
+        "spam": 0.028
+      },
+      "id": 74,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:09.876043+00:00"
+    },
+    {
+      "label": "toxic",
+      "confidence": 0.6277,
+      "probabilities": {
+        "acceptable": 0.1198,
+        "toxic": 0.8585,
+        "spam": 0.0217
+      },
+      "id": 75,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:10.968956+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8604,
+      "probabilities": {
+        "acceptable": 0.9516,
+        "toxic": 0.0141,
+        "spam": 0.0343
+      },
+      "id": 76,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:12.032812+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.6919,
+      "probabilities": {
+        "acceptable": 0.8875,
+        "toxic": 0.0377,
+        "spam": 0.0748
+      },
+      "id": 77,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:13.439606+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.6868,
+      "probabilities": {
+        "acceptable": 0.8837,
+        "toxic": 0.0158,
+        "spam": 0.1005
+      },
+      "id": 78,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:14.533848+00:00"
+    },
+    {
+      "label": "spam",
+      "confidence": 0.8423,
+      "probabilities": {
+        "acceptable": 0.0384,
+        "toxic": 0.0165,
+        "spam": 0.9451
+      },
+      "id": 79,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:15.712892+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8473,
+      "probabilities": {
+        "acceptable": 0.9469,
+        "toxic": 0.0171,
+        "spam": 0.036
+      },
+      "id": 80,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:16.815871+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.7193,
+      "probabilities": {
+        "acceptable": 0.8984,
+        "toxic": 0.0331,
+        "spam": 0.0685
+      },
+      "id": 81,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:18.020231+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8636,
+      "probabilities": {
+        "acceptable": 0.9528,
+        "toxic": 0.0165,
+        "spam": 0.0307
+      },
+      "id": 82,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:19.219767+00:00"
+    },
+    {
+      "label": "toxic",
+      "confidence": 0.4449,
+      "probabilities": {
+        "acceptable": 0.2189,
+        "toxic": 0.7627,
+        "spam": 0.0184
+      },
+      "id": 83,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:20.782759+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8546,
+      "probabilities": {
+        "acceptable": 0.9495,
+        "toxic": 0.0161,
+        "spam": 0.0344
+      },
+      "id": 84,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:21.907865+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.79,
+      "probabilities": {
+        "acceptable": 0.9259,
+        "toxic": 0.0384,
+        "spam": 0.0357
+      },
+      "id": 85,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:23.805527+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8228,
+      "probabilities": {
+        "acceptable": 0.938,
+        "toxic": 0.0219,
+        "spam": 0.0401
+      },
+      "id": 86,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:24.962084+00:00"
+    },
+    {
+      "label": "spam",
+      "confidence": 0.675,
+      "probabilities": {
+        "acceptable": 0.0993,
+        "toxic": 0.0215,
+        "spam": 0.8792
+      },
+      "id": 87,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:26.458534+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8689,
+      "probabilities": {
+        "acceptable": 0.9547,
+        "toxic": 0.0167,
+        "spam": 0.0286
+      },
+      "id": 88,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:28.096957+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8026,
+      "probabilities": {
+        "acceptable": 0.9304,
+        "toxic": 0.0211,
+        "spam": 0.0485
+      },
+      "id": 89,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:29.695473+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.7961,
+      "probabilities": {
+        "acceptable": 0.928,
+        "toxic": 0.0231,
+        "spam": 0.0489
+      },
+      "id": 90,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:31.122525+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.5387,
+      "probabilities": {
+        "acceptable": 0.8189,
+        "toxic": 0.1431,
+        "spam": 0.038
+      },
+      "id": 91,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:32.661077+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.7374,
+      "probabilities": {
+        "acceptable": 0.9053,
+        "toxic": 0.0257,
+        "spam": 0.069
+      },
+      "id": 92,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:33.875011+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.877,
+      "probabilities": {
+        "acceptable": 0.9576,
+        "toxic": 0.0156,
+        "spam": 0.0268
+      },
+      "id": 93,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:34.911635+00:00"
+    },
+    {
+      "label": "spam",
+      "confidence": 0.6016,
+      "probabilities": {
+        "acceptable": 0.1462,
+        "toxic": 0.0095,
+        "spam": 0.8443
+      },
+      "id": 94,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:36.687257+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8875,
+      "probabilities": {
+        "acceptable": 0.9614,
+        "toxic": 0.0147,
+        "spam": 0.0239
+      },
+      "id": 95,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:38.718685+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.3807,
+      "probabilities": {
+        "acceptable": 0.7219,
+        "toxic": 0.2559,
+        "spam": 0.0222
+      },
+      "id": 96,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:39.994835+00:00"
+    },
+    {
+      "label": "acceptable",
+      "confidence": 0.8588,
+      "probabilities": {
+        "acceptable": 0.951,
+        "toxic": 0.0148,
+        "spam": 0.0342
+      },
+      "id": 97,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:41.159243+00:00"
+    },
+    {
+      "label": "spam",
+      "confidence": 0.7336,
+      "probabilities": {
+        "acceptable": 0.077,
+        "toxic": 0.0196,
+        "spam": 0.9034
+      },
+      "id": 98,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:42.324008+00:00"
+    },
+    {
+      "label": "toxic",
+      "confidence": 0.6433,
+      "probabilities": {
+        "acceptable": 0.1081,
+        "toxic": 0.8659,
+        "spam": 0.026
+      },
+      "id": 99,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:43.308508+00:00"
+    },
+    {
+      "label": "spam",
+      "confidence": 0.645,
+      "probabilities": {
+        "acceptable": 0.1028,
+        "toxic": 0.0301,
+        "spam": 0.8671
+      },
+      "id": 100,
+      "model": "clef",
+      "error": null,
+      "classified_at": "2026-10-27T12:21:44.785285+00:00"
+    }
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "exportedAt": "2026-10-27T12:54:39.355Z",
+  "reviewKey": "clef-review-v1",
+  "dataset": "comments.json",
+  "results": [
+    {
+      "id": 1,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 2,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 3,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 4,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 5,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 6,
+      "choice": "toxic",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 7,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 8,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 9,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 10,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 11,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 12,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 13,
+      "choice": "toxic",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 14,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 15,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 16,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 17,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 18,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 19,
+      "choice": "toxic",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 20,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 21,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 22,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 23,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 24,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 25,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 26,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 27,
+      "choice": "toxic",
+      "borderline": false,
+      "note": "wrong allegations on sir about gender biasness. can be toxic."
+    },
+    {
+      "id": 28,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 29,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 30,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 31,
+      "choice": "toxic",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 32,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 33,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 34,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 35,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 36,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 37,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 38,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 39,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 40,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 41,
+      "choice": "toxic",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 42,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 43,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 44,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 45,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 46,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 47,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 48,
+      "choice": "toxic",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 49,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 50,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 51,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 52,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 53,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 54,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 55,
+      "choice": "toxic",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 56,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 57,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 58,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 59,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 60,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 61,
+      "choice": "toxic",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 62,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 63,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 64,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 65,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 66,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 67,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 68,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 69,
+      "choice": "toxic",
+      "borderline": false,
+      "note": "wrong things about TA. should be classified as toxic. "
+    },
+    {
+      "id": 70,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 71,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 72,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 73,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 74,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 75,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 76,
+      "choice": "toxic",
+      "borderline": false,
+      "note": "wrong reasoning for other peoples can distract the class or embed a violence between two sides. should be toxic."
+    },
+    {
+      "id": 77,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 78,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 79,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 80,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 81,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 82,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 83,
+      "choice": "toxic",
+      "borderline": false,
+      "note": "teasing a student. must be toxic."
+    },
+    {
+      "id": 84,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 85,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 86,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 87,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 88,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 89,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 90,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 91,
+      "choice": "toxic",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 92,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 93,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 94,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 95,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 96,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 97,
+      "choice": "toxic",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 98,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 99,
+      "choice": "spam",
+      "borderline": false,
+      "note": ""
+    },
+    {
+      "id": 100,
+      "choice": "acceptable",
+      "borderline": false,
+      "note": ""
+    }
+  ]
+}
